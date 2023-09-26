@@ -1,4 +1,4 @@
-# (new name impending)
+# Reflectta
 ## About
 Better than Lightcord!
 
